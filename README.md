@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Paulo Henrique dos Santos
 
 💻 **Software Developer** passionate about front-end and back-end development, always aiming for performance, scalability, and best practices.  
-🚀 Currently working mainly with **React, Next.js, Angular, TypeScript, and Node.js**.  
+🚀 Currently working mainly with **React and Spring Boot**.  
 
 ---
 

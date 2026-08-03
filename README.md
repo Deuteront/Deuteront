@@ -11,8 +11,8 @@
 **[Meow Cash](https://github.com/Deuteront/meowcash)** — Personal finance app for tracking income and expenses.
 Started as my postgraduate final project and grew into a full monorepo: React + TypeScript front end, Node.js backend and a landing page, containerized with Docker, deployed to AWS, with the UI designed in Figma against a small design system.
 
-**[Reservoir](https://github.com/Deuteront/reservoir-front)** — Reservoir management app.
-A place to try a stack I don't use at work: Vite, TanStack Router for type-safe routing, Tailwind and shadcn/ui, with Docker for both dev and production.
+**[Arena Tracker](https://github.com/Deuteront/wyd-global-arena)** — PvP arena tracker for an online game, built as a pnpm monorepo (API, web, db, shared).
+The upstream API only exposes cumulative season totals, with no per-match endpoint — so the system derives individual match results by diffing periodic snapshots, with automatic season-reset detection at month rollover. Hono + Drizzle + PostgreSQL on the back end, React + TanStack Router/Query on the front, cron-scheduled syncs, and 24 unit tests over the delta and reset logic.
 
 ---
 

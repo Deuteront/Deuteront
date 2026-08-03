@@ -11,10 +11,10 @@
 **[Meow Cash](https://github.com/Deuteront/meowcash)** — Personal finance app for tracking income and expenses.
 Started as my postgraduate final project and grew into a full monorepo: React + TypeScript front end, Node.js backend and a landing page, containerized with Docker, deployed to AWS, with the UI designed in Figma against a small design system.
 
-**WYD Automation Platform** — A distributed automation platform built across three services, where I'm the main contributor:
-- [**wyd-desktop**](https://github.com/LokiSwords/wyd-desktop) — desktop client in Electron, React, TypeScript and Tailwind
-- [**wyd-backend**](https://github.com/LokiSwords/wyd-backend) — REST API in Hono and TypeScript, backed by PostgreSQL
-- [**wyd-agent**](https://github.com/LokiSwords/wyd-agent) — Windows agent in Python
+**Loki Automation** — A Windows desktop automation platform built across three services, where I am the main contributor:
+- [**desktop**](https://github.com/LokiSwords/desktop) — desktop client in Electron, React, TypeScript and Tailwind
+- [**backend**](https://github.com/LokiSwords/backend) — REST API in Hono and TypeScript, backed by PostgreSQL
+- [**agent**](https://github.com/LokiSwords/agent) — Windows agent in Python
 
 **[Reservoir](https://github.com/Deuteront/reservoir-front)** — Reservoir management app.
 A place to try a stack I don't use at work: Vite, TanStack Router for type-safe routing, Tailwind and shadcn/ui, with Docker for both dev and production.

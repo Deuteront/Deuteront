@@ -25,7 +25,7 @@
 
 ## 🌟 Featured projects
 
-### 🧠 Kira Review &nbsp;<sub>private · in production</sub>
+### 🧠 [Kira](https://github.com/kira-review) &nbsp;<sub>in production</sub>
 
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -35,7 +35,7 @@
 ![Tests](https://img.shields.io/badge/246_integration_tests-2ea44f?style=flat-square)
 
 An AI coworker for creative and recruitment teams, in daily use by a design agency. The product is a **memory loop**: the AI proposes an evaluation of an artwork or a candidate, a reviewer corrects it, and the correction becomes structured team knowledge that the next evaluation starts from (RAG over pgvector).
-Multi-tenant with PostgreSQL row-level security, an MCP server so the whole app can be driven from Claude, and background jobs with pg-boss. *The code is private — happy to walk through it in an interview.*
+Multi-tenant with PostgreSQL row-level security, an MCP server so the whole app can be driven from Claude, and background jobs with pg-boss. More on the [product page](https://github.com/kira-review); the code is private, happy to walk through it in an interview.
 
 ### ⚔️ [Arena Tracker](https://github.com/Deuteront/wyd-global-arena)
 

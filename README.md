@@ -14,6 +14,9 @@ Started as my postgraduate final project and grew into a full monorepo: React + 
 **[Arena Tracker](https://github.com/Deuteront/wyd-global-arena)** — PvP arena tracker for an online game, built as a pnpm monorepo (API, web, db, shared).
 The upstream API only exposes cumulative season totals, with no per-match endpoint — so the system derives individual match results by diffing periodic snapshots, with automatic season-reset detection at month rollover. Hono + Drizzle + PostgreSQL on the back end, React + TanStack Router/Query on the front, cron-scheduled syncs, and 24 unit tests over the delta and reset logic.
 
+**Kira Review** *(private — in production, happy to walk through it in an interview)* — An AI coworker for creative and recruitment teams, in daily use by a design agency.
+The product is a memory loop: the AI proposes an evaluation of an artwork or a candidate, a reviewer corrects it, and the correction becomes structured team knowledge that the next evaluation starts from (RAG over pgvector). Multi-tenant with PostgreSQL row-level security, an MCP server so the whole app can be driven from Claude, background jobs with pg-boss, and 246 integration tests against a real Postgres. React + TypeScript + Tailwind on the front, Hono + Drizzle on Node 22 on the back.
+
 ---
 
 ## 🚀 Tech Stack

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-henrique-dos-santos-044862140/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/dev-paulo-santos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:paulo.santos.h@outlook.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/></a>
 </p>
 

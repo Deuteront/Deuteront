@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Paulo%20Henrique%20dos%20Santos&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descSize=16&descAlignY=58" width="100%" alt="Paulo Henrique dos Santos — Senior Software Engineer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=190&section=header&text=Paulo%20Santos&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js&descSize=16&descAlignY=58" width="100%" alt="Paulo Santos — Senior Software Engineer"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=620&lines=React+%2B+TypeScript+interfaces+at+scale;AI+features+with+LLMs%2C+RAG+and+pgvector;Health-tech+%C2%B7+Govtech+%C2%B7+Industrial+software" alt="Typing intro"/>
